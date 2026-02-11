@@ -5,3 +5,5 @@ nltk
 joblib
 streamlit
 altair==4.2.2
+streamlit==1.32.2
+
